@@ -87,6 +87,10 @@ class Grafo:
 
     araucaria.add_adjacent(Adjacent(contenda,18))
     araucaria.add_adjacent(Adjacent(curitiba,37))
-
+    
     sao_jose_dos_pinhais.add_adjacent(Adjacent(tijucas_do_sul,49))
     sao_jose_dos_pinhais.add_adjacent(Adjacent(curitiba,15))
+
+    contenda.add_adjacent(Adjacent(lapa,26))
+    contenda.add_adjacent(Adjacent(balsa_nova,22))
+    contenda.add_adjacent(Adjacent(araucaria,18))

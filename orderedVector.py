@@ -19,11 +19,11 @@ class OrderedVector:
                 pos = i + 1
 
         x = self.last_position
-        while x > pos:
+        while x >= pos:
             self.valors[x + 1] = self.valors[x]
             x-=1
         
-        self.last_position += 1
         self.valors[pos] = adj
+        self.last_position += 1
 
 
