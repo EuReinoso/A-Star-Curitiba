@@ -3,4 +3,6 @@
 
 ### O destino é curitiba. Então dada uma origem, ele calcula a melhor rota.
 
-![map](https://github.com/EuReinoso/A-Star-Pathfinding/issues/1)
+![map1](https://user-images.githubusercontent.com/77119687/110880615-ad214280-82bd-11eb-9f3d-6a254c47f06f.png).
+
+
